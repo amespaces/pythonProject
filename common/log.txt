@@ -1,0 +1,17 @@
+This is error
+This is critical message
+This is debug message
+This is info message
+This is warning message
+This is error
+This is critical message
+22--->DEBUG--->2022-06-17 20:24:10,293
+23--->INFO--->2022-06-17 20:24:10,293
+24--->WARNING--->2022-06-17 20:24:10,293
+25--->ERROR--->2022-06-17 20:24:10,293
+26--->CRITICAL--->2022-06-17 20:24:10,293
+22--->DEBUG--->2022-06-17 20:25:34,136--->This is debug message 
+23--->INFO--->2022-06-17 20:25:34,136--->This is info message 
+24--->WARNING--->2022-06-17 20:25:34,136--->This is warning message 
+25--->ERROR--->2022-06-17 20:25:34,136--->This is error 
+26--->CRITICAL--->2022-06-17 20:25:34,136--->This is critical message 
