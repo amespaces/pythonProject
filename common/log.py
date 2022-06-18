@@ -1,6 +1,6 @@
 import logging
 
-
+# log配置类
 class Log:
 
     def __init__(self, level="DEBUG"):

@@ -2,7 +2,7 @@ import logging
 
 logger = logging.getLogger()
 logger.setLevel(level="DEBUG")
-
+logging.Formatter
 # 创建文本处理器
 file_handle = logging.FileHandler("./log.txt", mode="a", encoding="utf-8")
 file_handle.setLevel(level="ERROR")
